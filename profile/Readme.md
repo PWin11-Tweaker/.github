@@ -1,5 +1,8 @@
-<img src="./logo-black.png" align="left" width="200"/>
+<img src="./logo.png" align="left" width="200"/>
 
 ### `PWin11 Tweaker`
 
-Tweaker for Windows 11
+Tweaker for Windows 11 (Rus \ Eng)
+
+
+<img src="./bg.png" align="center" height="89"/>
