@@ -3,6 +3,3 @@
 ### `PWin11`
 
 Settings for Windows 11 (Rus \ Eng)
-
-
-<img src="./bg1.png" align="center" height="89"/>
