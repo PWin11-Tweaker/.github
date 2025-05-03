@@ -1,5 +1,7 @@
-<img src="./logo1.png" align="left" width="200"/>
-
-### `PWin11`
-
-Settings for Windows 11 (Rus \ Eng)
+<div align="center">
+<a href="https://github.com/ShaanCoding/ReadME-Generator">
+<img src="https://github.com/PWin11-Tweaker/PWin11-Tweaker/blob/main/PWin11%20Tweaker's/Assets/new-logo-1.0.11-png-version.png?raw=true" alt="Logo" width="80" height="80">
+</a>
+<h3 align="center">PWin11</h3>
+<p align="center">
+Series of projects
